@@ -1,0 +1,11 @@
+{
+    "name": "northdakota/zencash-faucet",
+    "license": "MIT",
+    "type": "project",
+    "require": {
+        "kriswallsmith/buzz": "^0.15.1",
+        "guzzlehttp/guzzle": "^6.3",
+        "google/recaptcha": "^1.1",
+        "hexim/zcash-bundle": "^0.0.3"
+    }
+}
